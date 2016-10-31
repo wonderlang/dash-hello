@@ -1,2 +1,2 @@
 # dash-hello
-A hello-world-style package for DASH.
+Welcome to the first DASH package!
