@@ -1,0 +1,3 @@
+hello
+The first DASH package.
+dash --f=hello.dash
