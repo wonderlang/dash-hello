@@ -1,2 +1,2 @@
-# dash-hello
-Welcome to the first DASH package!
+# wonder-hello
+Welcome to the first Wonder package!
